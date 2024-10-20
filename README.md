@@ -1,4 +1,4 @@
-# Erling Haaland 2022 Shot Data
+# Erling Haaland Performance Analysis Season 2022 - 2023
 
 ## Project Overview
 This repository contains a dataset of Erling Haaland's shot attempts during the 2022 football season. Each row in the dataset corresponds to an individual shot, detailing information such as the timing, location, and outcome of the shot. This dataset is particularly useful for analyzing Haaland's shooting performance and understanding the context behind his shots.
@@ -39,7 +39,7 @@ This dataset is ideal for performance analysis, football statistics projects, an
 
 ## Shot Map: Erling Haaland's 2022-23 Premier League Shots
 
-![Erling Haaland's Shot Distribution](./images/Shotting Positions.png)
+![Erling Haaland's Shot Distribution](./images/Shotting%20Positions.png)
 
 This visualization showcases all of **Erling Haaland's shots** during the 2022-23 Premier League season, providing insight into his **shooting performance**:
 
@@ -82,7 +82,6 @@ This bar chart shows the **number of assists** provided by various Manchester Ci
 This visualization highlights the distribution of assists across the team, with a clear lead from attacking midfielders and forwards.
 
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -90,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Data source: [Understat](https://understat.com) – a platform providing detailed football statistics.  
-Special thanks to [mckayjohns](https://github.com/mckayjohns) for compiling and sharing and explaining his code.
+Special thanks to [mckayjohns](https://github.com/mckayjohns) for compiling, sharing, and providing clear explanations of his code.
